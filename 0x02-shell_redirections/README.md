@@ -1,1 +1,1 @@
-my readme file
+Write a script that prints
